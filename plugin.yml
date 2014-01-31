@@ -1,0 +1,28 @@
+name: LeonicGodCommands
+main: uk.Leonic.GodCommands.Main
+version: 0.1
+description: God Commands For Everyone!
+commands:
+
+  godeffects:
+    description: Makes you pretty much invincible! Do /godeffects to add it to yourself!
+    usage: /godeffects [player]
+    permission: GodCommands.godeffects
+    permission-message: You don't have permission to use this command!
+  ge:
+    description: Makes you pretty much invincible! Do /ge to add it to yourself!
+    usage: /godeffects [player]
+    permission: GodCommands.godeffects
+    permission-message: You don't have permission to use this command!
+  
+  gcupdate:
+    description: Check For New Version Of This Plugin. Who Knows? There Might Be A New Command!
+    usage: /gcupdate
+    permission: GodCommands.update
+    permission-message: You don't have permission to use this command!
+  
+  gcu:
+    description: Check For New Version Of This Plugin. Who Knows? There Might Be A New Command!
+    usage: /gcu
+    permission: GodCommands.update
+    permission-message: You don't have permission to use this command!
